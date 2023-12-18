@@ -1,0 +1,15 @@
+<navigation
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    app:startDestination="@id/preparingExerciseRoute"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://schemas.android.com/apk/res/android ">
+
+    <composable name="preparingExerciseRoute"
+        android:name="com.example.exercisesamplecompose.presentation.preparing.PreparingExerciseRoute" />
+
+    <composable name="exerciseRoute"
+        android:name="com.example.exercisesamplecompose.presentation.exercise.ExerciseRoute" />
+
+</navigation>

@@ -1,0 +1,36 @@
+<!-- res/layout/activity_main.xml -->
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    android:padding="5dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <Button
+            android:id="@+id/btnConnect"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Connect to Phone"
+            android:textAllCaps="false"
+            android:layout_centerVertical="true"
+            android:background="@drawable/circular_button_background"
+            android:onClick="onConnectButtonClick"/>
+
+
+        <Button
+            android:id="@+id/btnMain"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Start Exercise"
+            android:layout_below="@id/btnConnect"
+            android:layout_marginTop="50dp"
+            android:textAllCaps="false"
+            android:background="@drawable/circular_button_background"
+            android:onClick="onMainButtonClick"/>
+    </RelativeLayout>
+
+</ScrollView>

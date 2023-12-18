@@ -1,0 +1,185 @@
+{
+  "project_info": {
+    "project_number": "339671344192",
+    "firebase_url": "https://gesundheits-link-3a164-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "gesundheits-link-3a164",
+    "storage_bucket": "gesundheits-link-3a164.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339671344192:android:edfef72f663a57af42aba5",
+        "android_client_info": {
+          "package_name": "com.example.admin_2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339671344192-t8jtj88kdfhud5b1l3i3d3u4okagclsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo9BR-loQm1EYRw22Y_9o4h8SSzCUggoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339671344192-t8jtj88kdfhud5b1l3i3d3u4okagclsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339671344192:android:c1bca4dc4c1110ac42aba5",
+        "android_client_info": {
+          "package_name": "com.example.admin_example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339671344192-t8jtj88kdfhud5b1l3i3d3u4okagclsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo9BR-loQm1EYRw22Y_9o4h8SSzCUggoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339671344192-t8jtj88kdfhud5b1l3i3d3u4okagclsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339671344192:android:5653af8a272f77fc42aba5",
+        "android_client_info": {
+          "package_name": "com.example.exercisecompose"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339671344192-t8jtj88kdfhud5b1l3i3d3u4okagclsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo9BR-loQm1EYRw22Y_9o4h8SSzCUggoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339671344192-t8jtj88kdfhud5b1l3i3d3u4okagclsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339671344192:android:20c0274f82d44eb642aba5",
+        "android_client_info": {
+          "package_name": "com.example.gesundheits_link"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339671344192-t8jtj88kdfhud5b1l3i3d3u4okagclsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo9BR-loQm1EYRw22Y_9o4h8SSzCUggoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339671344192-t8jtj88kdfhud5b1l3i3d3u4okagclsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339671344192:android:a4833d9aa743260642aba5",
+        "android_client_info": {
+          "package_name": "com.example.testwearapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339671344192-t8jtj88kdfhud5b1l3i3d3u4okagclsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo9BR-loQm1EYRw22Y_9o4h8SSzCUggoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339671344192-t8jtj88kdfhud5b1l3i3d3u4okagclsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:339671344192:android:bfb52a0eabd5ab4b42aba5",
+        "android_client_info": {
+          "package_name": "io.flutter.plugins.firebase.messaging.example"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "339671344192-t8jtj88kdfhud5b1l3i3d3u4okagclsm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo9BR-loQm1EYRw22Y_9o4h8SSzCUggoY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "339671344192-t8jtj88kdfhud5b1l3i3d3u4okagclsm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
