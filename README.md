@@ -1,30 +1,64 @@
-# Exercise Sample
+# Gesundheits-Watch
 
-This sample demonstrates managing an exercise experience using the `ExerciseClient` API.
+Gesundheits-Watch is a Wear OS health monitoring application developed as part of the Gesundheits-Link ecosystem. The app focuses on collecting and displaying health-related data from a smartwatch, supporting real-time health tracking and improving accessibility to personal wellness information.
 
-### Running the sample
+## Features
 
-You will need a Wear device or emulator with Health Services installed. Open the sample project in
-Android Studio and launch the app on your device or emulator.
+- Wear OS smartwatch interface  
+- Health tracking support using Android Health Services  
+- Heart rate, exercise, calories, distance, and activity monitoring  
+- Kotlin and Jetpack Compose UI  
+- Firebase integration  
+- QR code scanning support  
+- Designed for health and fitness monitoring use cases  
 
-On startup, the app checks the device capabilities. If the necessary exercise capabilities are
-available, you will see a screen like this:
+## Tech Stack
 
-![exercise available screenshot](screenshots/exercise_available.png)
+- Kotlin  
+- Android Studio  
+- Wear OS  
+- Jetpack Compose  
+- Android Health Services  
+- Firebase  
+- Hilt Dependency Injection  
+- ZXing QR Scanner  
+- Gradle  
 
-When you press start, the app configures a running exercise and starts it. (You may need to use the
-[synthetic data provider](#using-synthetic-data) so that Health Services doesn't immediately pause
-the exercise due to no user activity.) While the exercise is active, the UI will show the exercise
-duration, heart rate bpm, calories burned, distance traveled, and the number of laps. 
+## Project Structure
 
-![exercise in progress screenshot](screenshots/exercise_in_progress.png)
+```text
+Gesundheits-Watch/
+├── app/                 # Main Wear OS application
+├── gradle/              # Gradle wrapper files
+├── screenshots/         # App screenshots
+├── build.gradle         # Project Gradle configuration
+├── settings.gradle      # Project settings
+└── README.md            # Project documentation
 
-While an exercise is in progress, if you leave the app, an ongoing notification appears, offering
-quick return to the exercise screen.
+Requirements
+Android Studio
+JDK 17
+Wear OS emulator or physical Wear OS device
+Health Services-supported device/emulator
+Firebase configuration file if Firebase features are used
 
-![ongoing notification screenshot](screenshots/ongoing_notification.png)
+Core Purpose
 
-On devices where the exercise capability is not available, you will see a screen like this:
+This application is designed to:
 
-![exercise unavailable screenshot](screenshots/exercise_not_available.png)
+Monitor user health metrics through smartwatch sensors
+Improve health accessibility through wearable technology
+Support future Gesundheits-Link integrations
+Enable smart health tracking for users on the go
+Future Improvements
+Real-time cloud sync
+Emergency alert integration
+Expanded biometric analytics
+Doctor-patient ecosystem support
+Mobile-to-watch synchronization
+Notes
 
+This project is developed as a Final Year Project (FYP) and may continue evolving with new healthcare monitoring capabilities, security enhancements, and broader wearable integrations.
+
+License
+This project is intended for academic and development purposes unless otherwise specified.
