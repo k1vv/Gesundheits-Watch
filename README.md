@@ -34,6 +34,7 @@ Gesundheits-Watch/
 ├── build.gradle         # Project Gradle configuration
 ├── settings.gradle      # Project settings
 └── README.md            # Project documentation
+```
 
 Requirements
 Android Studio
